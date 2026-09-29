@@ -1,29 +1,50 @@
-<a href="https://github.com/rocaka?tab=repositories"><img src="./assets/timewalk-pixel.png" width="100%" alt="TIMEWALK — 像素时间旅行者：星空浮岛与时钟传送门" /></a>
+<img src="./assets/studio.png" width="100%" alt="像素开发者工作室：窗外暮色城市、暖光书桌与代码屏幕" />
+<img src="./assets/identity.svg" width="100%" alt="Hey, I'm timewalk. Code, curiosity, and a little bit of everything." />
+
+在 Web、后端、智能合约与嵌入式之间探索。这里收集我的代码练习、小工具，以及慢慢成形的想法。
+
+[**项目仓库 ↗**](https://github.com/rocaka?tab=repositories) &nbsp; · &nbsp; [**我的收藏 ↗**](https://github.com/rocaka?tab=stars)
 
 <br />
 
-<p align="center">
-  <b>玩家 timewalk，欢迎来到我的代码世界。</b><br /><br />
-  <samp>CLASS: CURIOUS BUILDER &nbsp; / &nbsp; EQUIPMENT: GO · SOLIDITY · ESP32</samp><br />
-  <sub>在代码与电路之间探索，把每一个小想法，写成下一段冒险。</sub>
-</p>
+<img src="./assets/profile-panel.svg" width="100%" alt="角色档案与技能栏：timewalk / rocaka；TypeScript、Go、Solidity、Java、Rust、Python、C++" />
 
 <br />
 
-<p align="center"><b>✦ &nbsp; SELECT YOUR WORLD &nbsp; ✦</b><br /><sub>选择一个关卡，进入项目仓库</sub></p>
+### 🗺️ &nbsp; Quest board / 项目任务板
 
-<a href="https://github.com/rocaka/esp32-wifi-clock"><img src="./assets/clock-pixel.svg" width="49%" alt="关卡 01：钟楼 — esp32-wifi-clock，C++ / ESP32" /></a>
-<a href="https://github.com/rocaka/ERC20_ManualToken"><img src="./assets/token-pixel.svg" width="49%" alt="关卡 02：代币宝库 — ERC20_ManualToken，Solidity / ERC-20" /></a>
+不同方向的小实验。点击卡片，查看代码。
+
+<a href="https://github.com/rocaka/bluebook"><img src="./assets/quest-web.svg" width="49%" alt="bluebook 项目仓库" /></a>
+<a href="https://github.com/rocaka/bluebookbackserver"><img src="./assets/quest-server.svg" width="49%" alt="bluebookbackserver 项目仓库" /></a>
 <br />
-<a href="https://github.com/rocaka/foundry-code"><img src="./assets/foundry-pixel.svg" width="49%" alt="关卡 03：合约实验室 — foundry-code，Solidity / Foundry" /></a>
-<a href="https://github.com/rocaka/go-get-started"><img src="./assets/go-pixel.svg" width="49%" alt="关卡 04：Go 小径 — go-get-started，Go 入门练习" /></a>
+<a href="https://github.com/rocaka/esp32-wifi-clock"><img src="./assets/quest-device.svg" width="49%" alt="esp32-wifi-clock 项目仓库" /></a>
+<a href="https://github.com/rocaka/ERC20_ManualToken"><img src="./assets/quest-contract.svg" width="49%" alt="ERC20_ManualToken 项目仓库" /></a>
+<br />
+<a href="https://github.com/rocaka/bulls_and_cows"><img src="./assets/quest-rust.svg" width="49%" alt="bulls_and_cows 项目仓库" /></a>
+<a href="https://github.com/rocaka/trainer"><img src="./assets/quest-python.svg" width="49%" alt="trainer 项目仓库" /></a>
+<br />
 
 <br />
 
-<p align="center">
-  <a href="https://github.com/rocaka?tab=repositories"><samp>[ ALL WORLDS ]</samp></a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/rocaka?tab=stars"><samp>[ DISCOVERIES ]</samp></a>
-</p>
+### 🧭 &nbsp; Side quests / 更多探索
 
-<img src="./assets/checkpoint.svg" width="100%" alt="Every commit is a new checkpoint." />
+| 路线 | 仓库入口 |
+| :--- | :--- |
+| **Go 路线** | [projectX](https://github.com/rocaka/projectX) · [go-get-started](https://github.com/rocaka/go-get-started) |
+| **Web 路线** | [nextjs-dashboard](https://github.com/rocaka/nextjs-dashboard) · [trackplayer](https://github.com/rocaka/trackplayer) |
+| **合约路线** | [foundry-code](https://github.com/rocaka/foundry-code) · [web3-ts-coffee](https://github.com/rocaka/web3-ts-coffee) |
+| **C++ 路线** | [Cppgrammar](https://github.com/rocaka/Cppgrammar) |
+
+<br />
+
+### 📊 &nbsp; Save data / 探索记录
+
+<img src="./assets/stats.svg" width="100%" alt="17 个公开仓库，15 个非 Fork 仓库，7 种仓库主语言。2026-09-30 数据快照。" />
+
+<sub>GitHub 公开数据快照 · 2026-09-30 · 语言数按仓库主语言去重，含 Fork 仓库统计于公开仓库总数。</sub>
+
+<br />
+<br />
+
+<p align="center"><samp>✦ &nbsp; SAVE YOUR PROGRESS. STAY CURIOUS. &nbsp; ✦</samp><br /><sub>每一次提交，都是新的存档点。</sub></p>
