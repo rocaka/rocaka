@@ -1,43 +1,29 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="timewalk · rocaka — Explore. Build. Iterate. Go / Solidity / ESP32" />
+  <img src="./assets/header.svg" width="100%" alt="timewalk · A little curiosity. A lot of possibilities." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rocaka?tab=repositories">全部项目 · Repositories</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/rocaka?tab=stars">收藏 · Stars</a>
+  <b>你好，我是 timewalk。</b><br />
+  <sub>从 Go 到智能合约，再到 ESP32，记录每一次把想法变成代码的过程。</sub>
 </p>
 
-### Hi, I'm timewalk 👋
-
-在代码里探索，在实践中积累。
-
-这里记录我的 **Go、Solidity 与 ESP32** 项目：从语言练习、智能合约，到连接现实世界的小设备。
-
-<br />
-
-### Selected projects / 项目一览
-
-| 项目 | 方向 | 技术 |
-| :--- | :--- | :--- |
-| [**esp32-wifi-clock**](https://github.com/rocaka/esp32-wifi-clock) | ESP32 Wi-Fi 时钟 | `C++` · `ESP32` |
-| [**ERC20_ManualToken**](https://github.com/rocaka/ERC20_ManualToken) | ERC-20 代币合约 | `Solidity` |
-| [**foundry-code**](https://github.com/rocaka/foundry-code) | Solidity / Foundry 代码实践 | `Solidity` · `Foundry` |
-| [**go-get-started**](https://github.com/rocaka/go-get-started) | Go 入门练习 | `Go` |
+<p align="center">
+  <a href="https://github.com/rocaka?tab=repositories">Explore my repositories ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/rocaka?tab=stars">Things I find interesting ↗</a>
+</p>
 
 <br />
 
-### Explore / 探索方向
+### Selected work &nbsp; / &nbsp; 项目与实验
 
-**01 · Go**  
-从基础语法到项目实践，用代码记录学习过程。
+<a href="https://github.com/rocaka/esp32-wifi-clock"><img src="./assets/clock.svg" width="49%" alt="esp32-wifi-clock — ESP32 Wi-Fi 时钟，C++ / ESP32" /></a>
+<a href="https://github.com/rocaka/ERC20_ManualToken"><img src="./assets/token.svg" width="49%" alt="ERC20_ManualToken — ERC-20 代币合约，Solidity" /></a>
+<br />
+<a href="https://github.com/rocaka/foundry-code"><img src="./assets/foundry.svg" width="49%" alt="foundry-code — Solidity 与 Foundry 代码实践" /></a>
+<a href="https://github.com/rocaka/go-get-started"><img src="./assets/go.svg" width="49%" alt="go-get-started — Go 入门练习" /></a>
 
-**02 · Smart contracts**  
-通过 Solidity 与 Foundry，探索智能合约开发。
+<br />
+<br />
 
-**03 · Hardware**  
-用 ESP32 把代码带到屏幕之外。
-
----
-
-<p align="center"><sub>Small steps. Working code. Keep building.</sub></p>
+<p align="center"><sub>✦ &nbsp; STAY CURIOUS. KEEP BUILDING. &nbsp; ✦</sub></p>
