@@ -1,5 +1,8 @@
 <img src="./assets/studio.png" width="100%" alt="像素开发者工作室：窗外暮色城市、暖光书桌与代码屏幕" />
-<img src="./assets/identity.svg" width="100%" alt="Hey, I'm timewalk. Code, curiosity, and a little bit of everything." />
+
+<br />
+
+<img src="./assets/terminal.svg" width="100%" alt="timewalk — a curious builder. Explore, build, learn, repeat." />
 
 在 Web、后端、智能合约与嵌入式之间探索。这里收集我的代码练习、小工具，以及慢慢成形的想法。
 
@@ -11,7 +14,7 @@
 
 <br />
 
-### 🗺️ &nbsp; Quest board / 项目任务板
+<img src="./assets/section-work.svg" width="100%" alt="01 · 项目与实验" />
 
 不同方向的小实验。点击卡片，查看代码。
 
@@ -27,7 +30,7 @@
 
 <br />
 
-### 🧭 &nbsp; Side quests / 更多探索
+<img src="./assets/section-routes.svg" width="100%" alt="02 · 探索路线" />
 
 | 路线 | 仓库入口 |
 | :--- | :--- |
@@ -38,11 +41,11 @@
 
 <br />
 
-### 📊 &nbsp; Save data / 探索记录
+<img src="./assets/section-data.svg" width="100%" alt="03 · 仓库数据" />
 
-<img src="./assets/stats.svg" width="100%" alt="17 个公开仓库，15 个非 Fork 仓库，7 种仓库主语言。2026-09-30 数据快照。" />
+<img src="./assets/language-map.svg" width="100%" alt="17 个公开仓库、15 个非 Fork 仓库、7 种主语言；语言分布按非 Fork 仓库数量统计。" />
 
-<sub>GitHub 公开数据快照 · 2026-09-30 · 语言数按仓库主语言去重，含 Fork 仓库统计于公开仓库总数。</sub>
+<sub>GitHub 公开数据快照 · 2026-10-02 · 语言图按非 Fork 仓库主语言计数，不代表代码占比或熟练程度。</sub>
 
 <br />
 <br />
